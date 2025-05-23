@@ -1,0 +1,14 @@
+[08-Jan-2016 14:25:26 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 13: and i.isActivo = 1
+         ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[08-Jan-2016 14:25:26 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 13: and i.isActivo = 1
+         ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[08-Jan-2016 14:25:26 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[15-Jan-2016 11:22:03 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 13: and i.isActivo = 1
+         ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[15-Jan-2016 11:22:03 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 13: and i.isActivo = 1
+         ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[15-Jan-2016 11:22:03 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82

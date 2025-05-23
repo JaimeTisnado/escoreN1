@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: mi-app-php
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: DB_HOST
+        value: dpg-d0nla5gdl3ps73ad5110-a
+      - key: DB_PORT
+        value: 5432
+      - key: DB_NAME
+        value: escore_db
+      - key: DB_USER
+        value: escore_db_user
+      - key: DB_PASSWORD
+        value: t0Eczk61gIgM7Z02pGiCDWMfCmyNex4s

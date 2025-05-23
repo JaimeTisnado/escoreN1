@@ -1,0 +1,7 @@
+[02-Dec-2015 22:03:20 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;:&quot;
+LINE 10: and a.passUsuario = 'unexpected ':''
+                                          ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[02-Dec-2015 22:03:20 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near ":"
+LINE 10: and a.passUsuario = 'unexpected ':''
+                                          ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[02-Dec-2015 22:03:20 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82

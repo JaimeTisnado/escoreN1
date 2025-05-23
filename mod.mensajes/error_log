@@ -1,0 +1,262 @@
+[16-Dec-2014 10:08:54 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[16-Dec-2014 10:08:54 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[16-Dec-2014 10:08:54 America/Tegucigalpa] PHP Warning:  pg_num_rows() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 98
+[16-Dec-2014 10:08:54 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[16-Dec-2014 10:08:54 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[16-Dec-2014 10:08:54 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[16-Dec-2014 10:08:54 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[16-Dec-2014 10:08:54 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[17-Dec-2014 10:30:46 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 10:30:46 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 10:30:46 America/Tegucigalpa] PHP Warning:  pg_num_rows() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 98
+[17-Dec-2014 10:30:46 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 10:30:46 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 10:30:46 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 10:30:46 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 10:30:46 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[17-Dec-2014 14:13:26 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 14:13:26 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 14:13:26 America/Tegucigalpa] PHP Warning:  pg_num_rows() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 98
+[17-Dec-2014 14:13:26 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 14:13:26 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 14:13:26 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 14:13:26 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 14:13:26 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[17-Dec-2014 16:01:51 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 16:01:51 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[17-Dec-2014 16:01:51 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[18-Dec-2014 08:36:19 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:36:19 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:36:19 America/Tegucigalpa] PHP Warning:  pg_num_rows() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 98
+[18-Dec-2014 08:36:19 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:36:19 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:36:19 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:36:19 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:36:19 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_num_rows() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 98
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_num_rows() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 98
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_num_rows() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 98
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[18-Dec-2014 08:43:25 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[22-Dec-2014 09:01:45 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[22-Dec-2014 09:01:45 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[22-Dec-2014 09:01:45 America/Tegucigalpa] PHP Warning:  pg_num_rows() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 98
+[22-Dec-2014 09:01:45 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[22-Dec-2014 09:01:45 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[22-Dec-2014 09:01:45 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[22-Dec-2014 09:01:45 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[22-Dec-2014 09:01:45 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[07-Jan-2016 12:15:26 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:26 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:26 America/Tegucigalpa] PHP Warning:  pg_num_rows() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 98
+[07-Jan-2016 12:15:26 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:26 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:26 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:26 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:26 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[07-Jan-2016 12:15:32 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:32 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:32 America/Tegucigalpa] PHP Warning:  pg_num_rows() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 98
+[07-Jan-2016 12:15:32 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:32 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:32 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:32 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 12:15:32 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[07-Jan-2016 22:05:22 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 22:05:22 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 22:05:22 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[07-Jan-2016 22:05:24 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 22:05:24 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 22:05:24 America/Tegucigalpa] PHP Warning:  pg_num_rows() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 98
+[07-Jan-2016 22:05:24 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 22:05:24 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 22:05:24 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 22:05:24 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at or near "and"
+LINE 7: and lower(m.asunto) like lower('%%')
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[07-Jan-2016 22:05:24 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[13-Jan-2016 07:51:37 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[13-Jan-2016 07:51:37 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[13-Jan-2016 07:51:37 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[13-Jan-2016 07:51:46 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[13-Jan-2016 07:51:46 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[13-Jan-2016 07:51:46 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[13-Jan-2016 07:51:48 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[13-Jan-2016 07:51:48 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[13-Jan-2016 07:51:48 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82
+[13-Jan-2016 14:45:16 America/Tegucigalpa] PHP Warning:  pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[13-Jan-2016 14:45:17 America/Tegucigalpa] PHP Notice:  ERROR:  syntax error at end of input
+LINE 8: 
+        ^ in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 66
+[13-Jan-2016 14:45:17 America/Tegucigalpa] PHP Warning:  pg_fetch_array() expects parameter 1 to be resource, boolean given in /home2/grupoith/public_html/escore/mod.includes/funciones.php on line 82

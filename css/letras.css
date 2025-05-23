@@ -1,0 +1,112 @@
+/*
+ * eScore
+ * CSS de plantilla de letras
+ * Copyright 2013 Fernando Ramos/Dennis Garcia
+*/
+h1, h2, h3, h4, h5, h6 {
+    margin: 10px 0px;
+    font-family: inherit;
+    font-weight: bold;
+    line-height: 20px;
+    color: inherit;
+    text-rendering: optimizelegibility;
+}
+p{
+	padding:2px 0px 2px 0px;	
+}
+.cAzul{
+	color:#0088CC;	
+}
+.cBlanco{
+	color:#fff;	
+}
+.tright{
+	text-align:right;	
+}
+h2 {
+  color: #333;
+  font-size: 24px;
+  font-weight: 400;
+  margin:5px 0px
+}
+h4 {
+  color: #0088CC;
+  font-size: 20px;
+  font-weight: 400;
+  margin:8px 0px
+}
+.letraError{
+	font-size: 10px;
+	font-weight: bold;
+	color:#BF0000;
+	vertical-align:middle;
+}
+span.indent{
+	padding-left:10px;
+}
+.TDTitle{
+	font-size: 18px;
+	padding-bottom: 4px;
+	border-bottom:1px solid #eee;
+}
+.row_form{
+	font-weight: 600;
+	border-bottom: 1px solid #fff;
+	padding: 3px;
+	padding-right:30px;
+	vertical-align:middle;
+	text-align:right;
+}
+.list_general {
+	padding: 0;
+	margin: 2px 0;	
+}
+.list_general li {
+	width:100%;
+	display: table;
+	padding: 0px 4px 10px 8px;
+	margin-bottom: 10px;
+	border-bottom: 1px dotted #CCC;
+}
+.list_general li:last-child { 
+	padding-bottom: 0; 
+	border: none; 
+}
+.list_general .info {
+	display: table-cell;
+}
+.list_general .info > h3 {
+	font-size: 13px;
+	font-weight: 600;
+	color:#2A6496;	
+	margin:0;
+	padding:0;
+}
+.list_general .info > p {
+	font-size:12px;
+	color: #777;
+	margin:0;
+	padding:2px 0px;
+}
+.list_general .infoLeft {
+	width: 30px;
+	vertical-align: middle;
+	text-align: left;
+	display: table-cell;
+	margin: 0px 0px;
+	padding:0px 10px 0px 0px;
+	font-size: 20px;
+	font-weight:400;
+	color: #777;
+}
+.list_general .infoRight {
+	width: 50px;
+	vertical-align: middle;
+	text-align: right;
+	display: table-cell;
+	margin: 0px 0px;
+	padding:0px 10px 0px 0px;
+	font-size: 20px;
+	font-weight:400;
+	color: #777;
+}

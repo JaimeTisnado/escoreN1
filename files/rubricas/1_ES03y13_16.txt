@@ -1,0 +1,35 @@
+- Dreamweaver CS5
+- Firework CS5
+- Illustrator CS4
+- Photoshop CS5
+- Mozilla
+- Nitro PDF
+- Safari
+- Apache
+- Avast
+- Corel X5
+- Daemon Tools
+- Google Chrome
+ISeries
+- Hamachi
+- Office 2007
+- SQL Server 2008 R2
+- Visual Studio 2008
+- Service Pack 2008
+- MySQL .Net 6.5.4
+- MySQL Tools (OLD Version)
+- Notepad ++
+- Skype
+- Snagit 10
+- Socket Workbech
+- SQL Assistant
+- Tight VNC
+- VLC Media Player
+- Winrar
+- Winamp
+
+----- No Dispensables
+Smart Draw 2010
+QuickBooks
+Itunes
+Power DVD

@@ -1,0 +1,298 @@
+01,La Ceiba,01
+01,El Porvenir,02
+01,Esparta,03
+01,Jutiapa,04
+01,La Masica,05
+01,San Francisco,06
+01,Tela,07
+01,Arizona,08
+02,Trujillo,01
+02,Balfate,02
+02,Iriona,03
+02,Limón,04
+02,Sabá,05
+02,Santa Fe,06
+02,Santa Rosa de Aguán,07
+02,Sonaguera,08
+02,Tocoa,09
+02,Bonito Oriental,10
+03,Comayagua,01
+03,Ajuterique,02
+03,El Rosario,03
+03,Esquías,04
+03,Humuya,05
+03,La Libertad,06
+03,Lamaní,07
+03,La Trinidad,08
+03,Lejamaní,09
+03,Meámbar,10
+03,Minas de Oro,11
+03,Ojo de Agua,12
+03,San Jerónimo,13
+03,San José de Comayagua,14
+03,San José del Potrero,15
+03,San Luis,16
+03,San Sebastián,17
+03,Siguatepeque,18
+03,Villa de San Antonio,19
+03,Las Lajas,20
+03,Taulabé,21
+04,Santa Rosa de Copán,01
+04,Cabañas,02
+04,Concepción,03
+04,Copán Ruinas,04
+04,Corquín,05
+04,Cucuyagua,06
+04,Dolores,07
+04,Dulce Nombre,08
+04,El Paraíso,09
+04,Florida,10
+04,La Jigua,11
+04,La Unión,12
+04,Nueva Arcadia,13
+04,San Agustín,14
+04,San Antonio,15
+04,San Jerónimo,16
+04,San José,17
+04,San Juan de Opoa,18
+04,San Nicolás,19
+04,San Pedro de Copán,20
+04,Santa Rita,21
+04,Trinidad de Copán,22
+04,Veracruz,23
+05,San Pedro Sula,01
+05,Choloma,02
+05,Omoa,03
+05,Pimienta,04
+05,Potrerillos,05
+05,Puerto Cortés,06
+05,San Antonio de Cortés,07
+05,San Francisco de Yojoa,08
+05,San Manuel,09
+05,Santa Cruz de Yojoa,10
+05,Villanueva,11
+05,La Lima,12
+06,Choluteca,01
+06,Apacilagua,02
+06,Concepción de Maria,03
+06,Duyure,04
+06,El Corpus,05
+06,El Triunfo,06
+06,Marcovia,07
+06,Morolica,08
+06,Namasigüe,09
+06,Orocuina,10
+06,Pespire,11
+06,San Antonio de Flores,12
+06,San Isidro,13
+06,San José,14
+06,San Marcos de Colón,15
+06,Santa Ana de Yusguare,16
+07,Yuscarán,01
+07,Alauca,02
+07,Danlí,03
+07,El Paraíso,04
+07,Güinope,05
+07,Jacaleapa,06
+07,Liure,07
+07,Morocelí,08
+07,Oropolí,09
+07,Potrerillos,10
+07,San Antonio de Flores,11
+07,San Lucas,12
+07,San Matías,13
+07,Soledad,14
+07,Teupasenti,15
+07,Texíguat,16
+07,Vado Ancho,17
+07,Yauyupe,18
+07,Trojes,19
+08,Distrito Central,01
+08,Alubarén,02
+08,Cedros,03
+08,Curarén,04
+08,El Porvenir,05
+08,Guaimaca,06
+08,La Libertad,07
+08,La Venta,08
+08,Lepaterique,09
+08,Maraita,10
+08,Marale,11
+08,Nueva Armenia,12
+08,Ojojona,13
+08,Orica,14
+08,Reitoca,15
+08,Sabanagrande,16
+08,San Antonio de Oriente,17
+08,San Buenaventura,18
+08,San Ignacio,19
+08,San Juan de Flores,20
+08,San Miguelito,21
+08,Santa Ana,22
+08,Santa Lucía,23
+08,Talanga,14
+08,Tatumbla,25
+08,Valle de Angeles,26
+08,Villa de San Francisco,27
+08,Vallecillo,28
+09,Puerto Lempira,01
+09,Brus Laguna,02
+09,Ahuas,03
+09,Juan Francisco Bulnes,04
+09,Villeda Morales,05
+09,Wampusirpi,06
+10,La Esperanza,01
+10,Camasca,02
+10,Colomoncagua,03
+10,Concepción,04
+10,Dolores,05
+10,Intibucá,06
+10,Jesús de Otoro,07
+10,Magdalena,08
+10,Masaguara,09
+10,San Antonio,10
+10,San Isidro,11
+10,San Juan,12
+10,San Marcos de La Sierra,13
+10,San Miguelito,14
+10,Santa Lucía,15
+10,Yamaranguila,16
+10,San Francisco de Opalaca,17
+11,Roatán,01
+11,Guanaja,02
+11,José Santos Guardiola,03
+11,Utila,04
+12,La Paz,01
+12,Aguanqueterique,02
+12,Cabañas,03
+12,Cane,04
+12,Chinacla,05
+12,Guajiquiro,06
+12,Lauterique,07
+12,Marcala,08
+12,Mercedes de Oriente,09
+12,Opatoro,10
+12,San Antonio del Norte,11
+12,San José,12
+12,San Juan,13
+12,San Pedro de Tutule,14
+12,Santa Ana,15
+12,Santa Elena,16
+12,Santa María,17
+12,Santiago de Puringla,18
+12,Yarula,19
+13,Gracias,01
+13,Belén,02
+13,Candelaria,03
+13,Cololaca,04
+13,Erandique,05
+13,Gualcince,06
+13,Guarita,07
+13,La Campa,08
+13,La Iguala,09
+13,Las Flores,10
+13,La Unión,11
+13,La Virtud,12
+13,Lepaera,13
+13,Mapulaca,14
+13,Piraera,15
+13,San Andrés,16
+13,San Francisco,17
+13,San Juan Guarita,18
+13,San Manuel Colohete,19
+13,San Rafael,20
+13,San Sebastián,21
+13,Santa Cruz,22
+13,Talgua,23
+13,Tambla,24
+13,Tomalá,25
+13,Valladolid,26
+13,Virginia,27
+13,San Marcos de Caiquin,28
+14,Ocotepeque,01
+14,Belén Gualcho,02
+14,Concepción,03
+14,Dolores Merendón,04
+14,Fraternidad,05
+14,La Encarnación,06
+14,La Labor,07
+14,Lucerna,08
+14,Mercedes,09
+14,San Fernando,10
+14,San Francisco del Valle,11
+14,San Jorge,12
+14,San Marcos,13
+14,Santa Fe,14
+14,Sensenti,15
+14,Sinuapa,16
+15,Juticalpa,01
+15,Campamento,02
+15,Catacamas,03
+15,Concordia,04
+15,Dulce Nombre de Culmí,05
+15,El Rosario,06
+15,Esquipulas del Norte,07
+15,Gualaco,08
+15,Guarizama,09
+15,Guata,10
+15,Guayape,11
+15,Jano,12
+15,La Unión,13
+15,Mangulile,14
+15,Manto,15
+15,Salamá,16
+15,San Esteban,17
+15,San Francisco de Becerra,18
+15,San Francisco de La Paz,19
+15,Santa María del Real,20
+15,Silca,21
+15,Yocón,22
+15,Patuca,23
+16,Santa Bárbara,01
+16,Arada,02
+16,Atima,03
+16,Azacualpa,04
+16,Ceguaca,05
+16,Concepción del Norte,06
+16,Concepción del Sur,07
+16,Chinda,08
+16,El Níspero,09
+16,Gualala,10
+16,Ilama,11
+16,Macuelizo,12
+16,Naranjito,13
+16,Nuevo Celilac,14
+16,Petoa,15
+16,Protección,16
+16,Quimistán,17
+16,San Francisco de Ojuera,18
+16,San José de Colinas,19
+16,San Luis,20
+16,San Marcos,21
+16,San Nicolás,22
+16,San Pedro Zacapa,23
+16,San Vicente Centenario,24
+16,Santa Rita,25
+16,Trinidad,26
+16,Las Vegas,27
+16,Nueva Frontera,28
+17,Nacaome,01
+17,Alianza,02
+17,Amapala,03
+17,Aramecina,04
+17,Caridad,05
+17,Goascorán,06
+17,Langue,07
+17,San Francisco de Coray,08
+17,San Lorenzo,09
+18,Yoro,01
+18,Arenal,02
+18,El Negrito,03
+18,El Progreso,04
+18,Jocón,05
+18,Morazán,06
+18,Olanchito,07
+18,Santa Rita,08
+18,Sulaco,09
+18,Victoria,10
+18,Yorito,11
