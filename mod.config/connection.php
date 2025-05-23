@@ -1,6 +1,6 @@
 <?php
 /*
-Configuración de Conexión usando variables de entorno.
+  Configuración de Conexión usando variables de entorno.
 */
 
 class MySqlConnection {
@@ -9,30 +9,35 @@ class MySqlConnection {
     private $databaseUserName;
     private $databasePassWord;
     private $databaseName;
+    private $databasePort;
 
     public function __construct() {
         $this->databaseServer   = getenv('DB_HOST') ?: 'localhost';
         $this->databaseUserName = getenv('DB_USER_MYSQL') ?: 'root';
         $this->databasePassWord = getenv('DB_PASSWORD_MYSQL') ?: '';
         $this->databaseName     = getenv('DB_NAME_MYSQL') ?: 'escore';
+        $this->databasePort     = getenv('DB_PORT_MYSQL') ?: 3306;
     }
 
-    function get_databaseServer() {
+    public function getDatabaseServer() {
         return $this->databaseServer;
     }
 
-    function get_databaseUserName() {
+    public function getDatabaseUserName() {
         return $this->databaseUserName;
     }
 
-    function get_databasePassWord() {
+    public function getDatabasePassWord() {
         return $this->databasePassWord;
     }
 
-    function get_databaseName() {
+    public function getDatabaseName() {
         return $this->databaseName;
     }
 
+    public function getDatabasePort() {
+        return $this->databasePort;
+    }
 }
 
 class PgSqlConnection {
@@ -41,30 +46,55 @@ class PgSqlConnection {
     private $databaseUserName;
     private $databasePassWord;
     private $databaseName;
+    private $databasePort;
 
     public function __construct() {
         $this->databaseServer   = getenv('DB_HOST') ?: 'localhost';
         $this->databaseUserName = getenv('DB_USER') ?: 'postgres';
         $this->databasePassWord = getenv('DB_PASSWORD') ?: '';
         $this->databaseName     = getenv('DB_NAME') ?: 'escore';
+        $this->databasePort     = getenv('DB_PORT') ?: 5432;
     }
 
-    function get_databaseServer() {
+    public function getDatabaseServer() {
         return $this->databaseServer;
     }
 
-    function get_databaseUserName() {
+    public function getDatabaseUserName() {
         return $this->databaseUserName;
     }
 
-    function get_databasePassWord() {
+    public function getDatabasePassWord() {
         return $this->databasePassWord;
     }
 
-    function get_databaseName() {
+    public function getDatabaseName() {
         return $this->databaseName;
     }
 
-}
+    public function getDatabasePort() {
+        return $this->databasePort;
+    }
 
+    /**
+     * Crea y retorna una conexión pg_pconnect con los parámetros configurados.
+     * Lanza una excepción si no se puede conectar.
+     */
+    public function connect() {
+        $connString = sprintf(
+            "host=%s port=%d dbname=%s user=%s password=%s",
+            $this->getDatabaseServer(),
+            $this->getDatabasePort(),
+            $this->getDatabaseName(),
+            $this->getDatabaseUserName(),
+            $this->getDatabasePassWord()
+        );
+
+        $conn = @pg_pconnect($connString);
+        if (!$conn) {
+            throw new Exception("No se logró establecer la conexión a la base de datos PostgreSQL con: $connString");
+        }
+        return $conn;
+    }
+}
 ?>
