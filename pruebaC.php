@@ -14,7 +14,7 @@ $conn = pg_connect($conn_string);
 
 // Resultado
 if ($conn) {
-    echo "✅ Conexión exitosa a PostgreSQL";
+    echo "✅ Conexión exitosa a PostgreSQL MAS OTRA";
 } else {
     echo "❌ Error al conectar a PostgreSQL";
 }
