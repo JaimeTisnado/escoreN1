@@ -1,7 +1,13 @@
 <?php
 /*
-  Configuración de Conexión usando variables de entorno.
+  Configuración de Conexión usando variables de entorno o valores definidos directamente.
 */
+
+putenv('DB_HOST=switchback.proxy.rlwy.net');
+putenv('DB_PORT=30265');
+putenv('DB_USER=postgres');
+putenv('DB_PASSWORD=VVFSjknzEbQwXjeSxjpafCliGeTAIvgA');
+putenv('DB_NAME=railway');
 
 class MySqlConnection {
 
@@ -76,10 +82,6 @@ class PgSqlConnection {
         return $this->databasePort;
     }
 
-    /**
-     * Crea y retorna una conexión pg_pconnect con los parámetros configurados.
-     * Lanza una excepción si no se puede conectar.
-     */
     public function connect() {
         $connString = sprintf(
             "host=%s port=%d dbname=%s user=%s password=%s",
